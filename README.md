@@ -1,4 +1,4 @@
-# Sales-Analysis-using-Excel
+# Sales-Analysis Dahboard-using-Excel
 
 ## Project Overview
 This Sales Analysis Dashboard was created using Microsoft Excel to visualize and analyze product performance, regional contributions, salesperson efficiency, and category-level insights. It provides a high-level view of key sales metrics using intuitive charts and filters.
